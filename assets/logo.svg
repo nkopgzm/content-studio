@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Content Studio · 内容工作室</title>
+  <desc id="desc">A deep purple outlined sheet with three lines and a small four-point sparkle on a light lavender background.</desc>
+  <rect width="1024" height="1024" fill="#F3EFF9"/>
+  <circle cx="490" cy="532" r="348" fill="#E8DFF4"/>
+  <g transform="rotate(-6 500 520)" stroke="#482263" stroke-width="32" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 208H588L728 348V764C728 799 700 828 664 828H300C264 828 236 799 236 764V272C236 237 264 208 300 208Z" fill="#FFFDFF"/>
+    <path d="M588 208V300C588 327 609 348 636 348H728" fill="#D9C8ED"/>
+    <path d="M340 456H610M340 568H610M340 680H520" fill="none" stroke-width="40"/>
+  </g>
+  <path d="M798 168C805 224 823 242 878 250C823 258 805 276 798 332C790 276 772 258 716 250C772 242 790 224 798 168Z" fill="#482263"/>
+</svg>

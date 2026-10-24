@@ -1,0 +1,28 @@
+{
+  "profile": {
+    "required_tags": ["#创作练习"],
+    "forbidden_phrases": ["保证涨粉"],
+    "max_body_chars": 300,
+    "identity_anchors": {"hair_color": "蓝色", "accessories": "圆框眼镜"},
+    "min_visual_changes": 2
+  },
+  "posts": [
+    {
+      "id": "problem-01",
+      "title": "复制这一句就够了",
+      "body": "只要每天照着这个模板写，就能保证涨粉。无需观察读者，也不必检查自己的事实来源。把每一个开头重复一次，内容自然就会被更多人看见。",
+      "tags": ["#写作"],
+      "visual": {"identity": {"hair_color": "红色", "accessories": "圆框眼镜"}, "background": "窗边书桌", "composition": "侧面中景", "outfit": "米色衬衫"},
+      "sources": []
+    },
+    {
+      "id": "problem-02",
+      "title": "再复制一次",
+      "body": "只要每天照着这个模板写，就能保证涨粉。无需观察读者，也不必检查自己的事实来源。把每一个开头重复一次，内容自然就会被更多人看见。",
+      "tags": ["#创作练习"],
+      "visual": {"identity": {"hair_color": "蓝色", "accessories": "圆框眼镜"}, "background": "窗边书桌", "composition": "侧面中景", "outfit": "米色衬衫"},
+      "sources": []
+    }
+  ],
+  "history": []
+}

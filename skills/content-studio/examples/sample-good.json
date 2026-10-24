@@ -1,0 +1,36 @@
+{
+  "profile": {
+    "required_tags": ["#创作练习"],
+    "forbidden_phrases": ["保证涨粉", "百分百有效"],
+    "max_body_chars": 300,
+    "identity_anchors": {"hair_color": "蓝色", "accessories": "圆框眼镜"},
+    "min_visual_changes": 2
+  },
+  "posts": [
+    {
+      "id": "draft-01",
+      "title": "把难写的开头缩小一点",
+      "body": "今天先写一个具体场景：打开空白文档时，你的手停在了哪里？从这个动作开始，再慢慢写到想表达的观点。先留下一段能修改的文字，比反复寻找完美开场更容易迈出第一步。",
+      "tags": ["#创作练习", "#写作"],
+      "visual": {"identity": {"hair_color": "蓝色", "accessories": "圆框眼镜"}, "background": "窗边书桌", "composition": "侧面中景", "outfit": "米色衬衫"},
+      "sources": []
+    },
+    {
+      "id": "draft-02",
+      "title": "散步时，给灵感留一个位置",
+      "body": "走过路口时，试着记下一种声音、一处颜色和一个人的动作。回家后从记录里挑一个细节展开：它让你想起了什么？这是一份观察练习，不必急着把每个片段都变成作品。",
+      "tags": ["#创作练习", "#日常观察"],
+      "visual": {"identity": {"hair_color": "蓝色", "accessories": "圆框眼镜"}, "background": "黄昏街角", "composition": "远景背影", "outfit": "绿色外套"},
+      "sources": []
+    },
+    {
+      "id": "draft-03",
+      "title": "删掉一句解释，让动作说话",
+      "body": "把“她很紧张”暂时划掉，再看这一幕还能留下什么：杯子被转了两圈，话到嘴边又停住。动作也能承载情绪。练习时保留原稿，比较两个版本，选更符合你想表达的那个。",
+      "tags": ["#创作练习", "#表达"],
+      "visual": {"identity": {"hair_color": "蓝色", "accessories": "圆框眼镜"}, "background": "安静咖啡馆", "composition": "手部近景", "outfit": "深灰针织衫"},
+      "sources": []
+    }
+  ],
+  "history": []
+}
