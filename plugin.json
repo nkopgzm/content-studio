@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "content-studio",
+  "version": "0.1.0",
+  "description": "Plan and draft Chinese social content, then check tags, repetition and visual briefs with an offline Python helper."
+}
